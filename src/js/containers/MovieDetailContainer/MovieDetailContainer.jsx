@@ -46,7 +46,7 @@ class MovieDetailContainer extends React.Component {
                   className="h6 rounded"
                   style={{
                     color: "white",
-                    backgroundColor: "darkGreen",
+                    backgroundColor: "purple",
                     padding: "0 10px 0 10px",
                     marginRight: "10px"
                   }}
@@ -57,7 +57,7 @@ class MovieDetailContainer extends React.Component {
                   className="h6 rounded"
                   style={{
                     color: "white",
-                    backgroundColor: "darkGreen",
+                    backgroundColor: "purple",
                     padding: "0 10px 0 10px",
                     marginRight: "10px"
                   }}
@@ -68,7 +68,7 @@ class MovieDetailContainer extends React.Component {
                   className="h6 rounded"
                   style={{
                     color: "white",
-                    backgroundColor: "darkGreen",
+                    backgroundColor: "purple",
                     padding: "0 10px 0 10px"
                   }}
                 >
